@@ -11,5 +11,5 @@ hellow ! im fang / paxton
 i also go by other names !
 </p>
 <p align="center">
-<img width="190" src="https://files.catbox.moe/18q07y.png">
+<img width="185" src="https://files.catbox.moe/18q07y.png">
 </p>
