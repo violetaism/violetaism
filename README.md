@@ -10,7 +10,7 @@ hellow ! im fang / paxton
 i also go by other names !
 </p>
 <p align="center">
-i use all prns but she they !
+i use all prns but shethey
 </p>
 <p align="center">
 <img width="185" src="https://files.catbox.moe/18q07y.png">
